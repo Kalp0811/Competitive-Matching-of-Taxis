@@ -1,4 +1,4 @@
-#Competitive Matching of Taxis
+Competitive Matching of Taxis
 Project Overview
 This repository contains the code and documentation for a capstone project on optimizing taxi resource allocation in a competitive multi-company environment. The project aims to develop an innovative algorithm that accounts for inter-company competition, enhancing both customer satisfaction and operational efficiency in urban transportation systems.
 Key Features
