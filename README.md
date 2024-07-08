@@ -28,3 +28,11 @@ This repository contains the code and documentation for a capstone project on op
 git clone https://github.com/yourusername/competitive-taxi-matching.git
 cd competitive-taxi-matching
 pip install -r requirements.txt
+```
+
+## Usage
+
+To run the simulation:
+```bash
+python simulate.py --taxis 3000 --requests 1000000
+```
