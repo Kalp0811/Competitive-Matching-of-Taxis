@@ -23,8 +23,8 @@ This repository contains the code and documentation for a capstone project on op
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/competitive-matching-of-taxis.git
-cd competitive-matching-of-taxis
+git clone https://github.com/Kalp0811/Competitive-Matching-of-Taxis
+cd Competitive-Matching-of-Taxis
 pip install -r requirements.txt
 ```
 
