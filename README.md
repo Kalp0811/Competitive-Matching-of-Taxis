@@ -18,15 +18,13 @@ This repository contains the code and documentation for a capstone project on op
 3. [Data Analysis](#data-analysis)
 4. [Algorithm](#algorithm)
 5. [Results](#results)
-6. [Contributing](#contributing)
-7. [License](#license)
-8. [Acknowledgements](#acknowledgements)
+6. [Acknowledgements](#acknowledgements)
 
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/competitive-taxi-matching.git
-cd competitive-taxi-matching
+git clone https://github.com/yourusername/competitive-matching-of-taxis.git
+cd competitive-matching-of-taxis
 pip install -r requirements.txt
 ```
 
@@ -34,5 +32,37 @@ pip install -r requirements.txt
 
 To run the simulation:
 ```bash
-python simulate.py --taxis 3000 --requests 1000000
+python new.py
 ```
+
+## Data Analysis
+The project analyzed extensive datasets from New York City and Chicago taxi markets. Key findings include:
+
+Temporal patterns of taxi trips
+Market share dynamics among competing companies
+Spatial distribution of pickups and dropoffs
+Impact of ride-hailing services on traditional taxis
+
+## Algorithm
+The core of the project is a competitive matching algorithm that incorporates:
+
+Game theory modeling of inter-company competition
+Multi-agent reinforcement learning for adaptive strategies
+Dynamic pricing based on real-time market conditions
+Demand prediction using machine learning models
+
+## Results
+Our algorithm demonstrated significant improvements in key performance metrics:
+
+Increased service rates (up to 91.23% for 150,000 requests)
+Reduced average wait times (up to 30.3% reduction)
+Balanced market share distribution among competing companies
+Improved operational efficiency and resource utilization
+
+## Acknowledgements
+
+Singapore Management University
+Prof. Pradeep Varakantham (Project Supervisor)
+Jiang Hao (PhD student)
+New York City Taxi & Limousine Commission for providing the NYC dataset
+City of Chicago for providing the Chicago Taxi Trips dataset
