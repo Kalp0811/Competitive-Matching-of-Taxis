@@ -394,8 +394,8 @@ def calculate_operational_cost(travel_time, dropoff_travel_time):
 
 def main():
     # Load and preprocess data
-    requests = pd.read_csv('1m2024.csv')
-    taxi_data = pd.read_csv('20000.csv')
+    requests = pd.read_csv('150k2024.csv')
+    taxi_data = pd.read_csv('1000.csv')
     
     requests['request_datetime'] = pd.to_datetime(requests['request_datetime'])
     requests['pickup_datetime'] = pd.to_datetime(requests['pickup_datetime'])
