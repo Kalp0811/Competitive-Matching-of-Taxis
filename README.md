@@ -32,7 +32,7 @@ pip install -r requirements.txt
 
 To run the simulation:
 ```bash
-python new.py
+python comp.py
 ```
 
 ## Data Analysis
