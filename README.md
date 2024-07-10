@@ -52,7 +52,7 @@ The core of the project is a competitive matching algorithm that incorporates:
 - Demand prediction using machine learning models
 
 ## Results
-Our algorithm demonstrated significant improvements in key performance metrics:
+Algorithm demonstrated significant improvements in key performance metrics:
 
 - Increased service rates (up to 91.23% for 150,000 requests)
 - Reduced average wait times (up to 30.3% reduction)
